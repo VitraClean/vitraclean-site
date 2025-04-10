@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VitraClean | Limpeza Profissional</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fc;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(90deg, #7c4dff, #64b5f6);
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #5e35b1;
+    }
+    .services li {
+      margin-bottom: 10px;
+    }
+    .cta {
+      background-color: #e1f5fe;
+      padding: 30px;
+      text-align: center;
+      border-radius: 10px;
+    }
+    footer {
+      background-color: #5e35b1;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    a {
+      color: #5e35b1;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>VitraClean</h1>
+    <p>Limpeza Profissional Residencial e Empresarial</p>
+  </header>
+
+  <section>
+    <h2>Quem Somos</h2>
+    <p>A VitraClean oferece soluções completas de limpeza com qualidade, confiança e discrição. Atendemos residências, empresas, escritórios, clínicas e mais. Com equipe treinada, materiais próprios e agendamento flexível, garantimos um serviço impecável para todos os nossos clientes.</p>
+  </section>
+
+  <section>
+    <h2>Serviços</h2>
+    <ul class="services">
+      <li>Limpeza residencial completa</li>
+      <li>Limpeza pós-obra</li>
+      <li>Limpeza de mudança</li>
+      <li>Higienização de estofados (sofás, colchões, poltronas)</li>
+      <li>Limpeza de vidros e janelas</li>
+      <li>Limpeza de escritórios, clínicas e lojas</li>
+      <li>Planos para empresas</li>
+    </ul>
+  </section>
+
+  <section class="cta">
+    <h2>Fale Conosco</h2>
+    <p>Solicite um orçamento sem compromisso pelo WhatsApp:</p>
+    <p><strong>(99) 99999-9999</strong></p>
+    <p>Ou envie um e-mail para <a href="mailto:contato@vitraclean.com.br">contato@vitraclean.com.br</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 VitraClean - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
