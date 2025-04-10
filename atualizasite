@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>VitraClean – Limpeza Profissional</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet"/>
+    <style>
+      body {
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+        background-color: #f4f6f9;
+        color: #333;
+      }
+      header {
+        background-color: #007bff;
+        color: white;
+        padding: 30px;
+        text-align: center;
+      }
+      header h1 {
+        margin: 0;
+        font-size: 2.5rem;
+      }
+      section {
+        padding: 40px 20px;
+        max-width: 900px;
+        margin: auto;
+      }
+      .cta {
+        background-color: #e9f0fb;
+        padding: 30px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 30px;
+      }
+      .cta a {
+        display: inline-block;
+        background-color: #007bff;
+        color: white;
+        padding: 15px 25px;
+        text-decoration: none;
+        border-radius: 8px;
+        margin-top: 10px;
+      }
+      footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>VitraClean</h1>
+      <p>Limpeza profissional, confiança e excelência</p>
+    </header>
+
+    <section>
+      <h2>Quem somos</h2>
+      <p>A VitraClean oferece serviços de limpeza profissional, pós-obra, limpeza de estofados, colchões, sofás, tapetes e muito mais. Atuamos com cuidado, agilidade e total confiança.</p>
+    </section>
+
+    <section>
+      <h2>Serviços</h2>
+      <ul>
+        <li>Limpeza residencial</li>
+        <li>Limpeza pós-obra</li>
+        <li>Higienização de estofados</li>
+        <li>Revitalização automotiva</li>
+        <li>Limpeza de vidros</li>
+      </ul>
+    </section>
+
+    <section class="cta">
+      <h2>Agende agora mesmo!</h2>
+      <p>Entre em contato pelo WhatsApp:</p>
+      <a href="https://wa.me/5511948251678" target="_blank">Fale com a VitraClean</a>
+      <p>Email: vitracleanlimpeza@gmail.com</p>
+    </section>
+    </section>
+
+    <footer>
+      <p>© 2025 VitraClean – Todos os direitos reservados.</p>
+    </footer>
+  </body>
+</html>
+
+    <footer>
+      <p>© 2025 VitraClean – Todos os direitos reservados.</p>
+    </footer>
+  </body>
+</html>
